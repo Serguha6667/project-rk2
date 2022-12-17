@@ -1,0 +1,26 @@
+.class-1-1 {
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-top: 300px;
+    margin-left: 40%;
+}
+.name {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.name1 {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.number {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.btn-1 {
+    width: 120px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+}

@@ -1,0 +1,262 @@
+.img1 {
+    width: 210px;
+    height: 70px;
+    margin: 42px 0px 0px 54px;
+    background-color: azure;
+    border-radius:10px;
+}
+.anu-0 {
+    margin-top: -10px;
+    width: 400px;
+    height: 1000px;
+    background-color: aliceblue;
+}
+.anu-0 {
+    background-image: url('http://lorempixel.com/200/200/city/9');
+    width: 400px;
+    height: 1000px;
+    box-shadow: 0px 0px 15px 8px white inset;
+}
+.anu-1-1 {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.anu-1-2 {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.anu-1-3 {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+a {
+    text-decoration: none;
+}
+.O-all {
+    margin: 170px 0px 0px 0px;
+}
+/* .O-1 {
+    background-color: aliceblue;
+    width: 246px;
+    height: 169px;
+    border-radius: 30px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: -359px 0px 0px 521px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+.O-1 {
+    width: 150px;
+    height: 100px;
+    margin-left: 260px;
+    margin-top: -60%;
+}
+.O-2 {
+    width: 120px;
+    height: 180px;
+    margin-left: 450px;
+    margin-top: -45%;
+}
+.O-3 {
+    width: 170px;
+    height: 170px;
+    margin-left: 640px;
+    margin-top: -40%;
+}
+/* .O-2 {
+    background-color: aliceblue;
+    width: 246px;
+    height: 169px;
+    border-radius: 30px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: -170px 0px 0px 831px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+/* .O-3 {
+    background-color: aliceblue;
+    width: 246px;
+    height: 169px;
+    border-radius: 30px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: -170px 0px 0px 1139px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+/* .O-1:hover {
+    background-color: rgb(151, 207, 255);
+    transition: 0.7s;
+} */
+/* .O-2:hover {
+    background-color: rgb(151, 207, 255);
+    transition: 0.7s;
+} */
+/* .O-3:hover {
+    background-color: rgb(151, 207, 255);
+    transition: 0.7s;
+} */
+.O-2-txt {
+    color: black;
+    margin-left: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+.O-4 {
+    width: 170px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.O-4-txt {
+    width: 213.133px;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.O-2-txt {
+    width: 200px;
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.O-3-txt {
+    width: 300px;
+    display: flex;
+    margin-left: 600px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.O-1-txt {
+    width: 300px;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.O-5 {
+    width: 400px;
+    height: 120px;
+    margin-left: 370px;
+    margin-top: -50px;
+}
+.O-5-txt {
+    width: 300px;
+    display: flex;
+    margin-left: 450px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+    @media screen and (max-width:480px) {
+        .img1 {
+            margin-left: 140px;
+            width: 200px;
+            height: 70px;
+        }
+        .all-11 {
+            width: 400px;
+            height: 2000px;
+        }
+        .anu-0 {
+            width: 490px;
+            height: 170px;
+        }
+        .anu-1-1 {
+            background-color: rgb(208, 233, 255);
+            width: 250px;
+            height: 70px;
+            border-radius: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 100px;
+            margin-top: 50px;
+        }
+        .O-1 {
+            width: 230px;
+            height: 160px;
+            margin-left: 30px;
+            padding-top: 140px;
+        }
+        .O-1-txt {
+            width: 300px;
+            font-size:larger;
+            margin-left: 0px;
+            margin-top: 20px;
+        }
+        .O-2 {
+            width: 150px;
+            height: 270px;
+            margin-left: 40px;
+            padding-top: 180px;
+        }
+        .O-2-txt {
+            font-size:larger;
+            margin-left: 0px;
+            margin-top: 10px;
+        }
+        .O-3  {
+            width: 200px;
+            height: 200px;
+            margin-left: 30px;
+            padding-top: 230px;
+        }
+        .O-3-txt {
+            width: 340px;
+            font-size:larger;
+            margin-left: 0px;
+            margin-top: 10px;
+        }
+        .O-4 {
+            width: 200px;
+            height: 180px;
+            margin-left: 30px;
+            padding-top: 110px;
+        }
+        .O-4-txt {
+            width: 300px;
+            font-size:larger;
+            margin-left: 0px;
+            margin-top: 10px;
+        }
+        .O-5 {
+            width: 400px;
+            height: 120px;
+            margin-left: -10px;
+            padding-top: 180px;
+        }
+        .O-5-txt {
+            width: 300px;
+            font-size:larger;
+            margin-left: 40px;
+            margin-top: 10px;
+        }
+    }
